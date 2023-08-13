@@ -23,7 +23,7 @@ While I haven't yet fully implemented local storage in the project, it's on my l
 
 Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
 
-## 🛠 Installation and Setup Instructions
+## Installation and Setup Instructions
 
 1. Installation: `npm install`
 
